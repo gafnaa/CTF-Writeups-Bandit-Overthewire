@@ -10,7 +10,7 @@ Login ssh via terminal
 ssh bandit.labs.overthewire.org -p 2220 -l username 
 ```
 
-username : bandit2
+username : bandit2 <br>
 password : 263JGJPfgU6LtdEvgfWU1XP5yac29mFx 
 
 do ``` ls -la``` command, to checking **spaces in this filename** file is availabe on that directory or not. 
