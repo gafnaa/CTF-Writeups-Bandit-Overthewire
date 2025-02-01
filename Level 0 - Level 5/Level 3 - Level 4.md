@@ -10,7 +10,7 @@ Login ssh via terminal
 ssh bandit.labs.overthewire.org -p 2220 -l username 
 ```
 
-username : bandit3
+username : bandit3 <br>
 password : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 use ```ls``` to check what is in the directory
