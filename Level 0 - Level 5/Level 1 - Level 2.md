@@ -10,7 +10,7 @@ Login ssh via terminal
 ssh bandit.labs.overthewire.org -p 2220 -l username 
 ```
 
-username : bandit1
+username : bandit1 <br>
 password : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5I 
 
 type ``` ls -la ``` to check all files in directory, after found **-** file, just using ```cat ./-``` command to view the contents of the file.
