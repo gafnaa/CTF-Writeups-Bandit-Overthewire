@@ -10,4 +10,4 @@ Then, do ```cat readme```  to view the contents of the file.
 
 The password is : ```ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If```
 
-![0-1](/assets/0-1.png)
+[![0-1.png](https://i.postimg.cc/5Ndxbmvz/0-1.png)](https://postimg.cc/Th08cgt2)
