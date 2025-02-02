@@ -30,4 +30,4 @@ just open the file using ```cat ./maybehere07/.file2```
 
 The password that can be obtained is : ```HWasnPhtq9AVKe0dmk45nxy20cvUa6EG```
 
-
+[![5-6.png](https://i.postimg.cc/x8mjWxpL/5-6.png)](https://postimg.cc/y3VzRPHN)
