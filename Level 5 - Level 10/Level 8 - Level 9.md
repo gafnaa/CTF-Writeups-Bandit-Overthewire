@@ -20,4 +20,6 @@ Then, we can use   ```sort``` command to filtering text that occurs only once, h
 
     sort data.txt | uniq -u
 
+The password that can be obtained is : ```4CKMh1JI91bUIZZPXDqGanal4xvAg0JM```
+
 [![8-9.png](https://i.postimg.cc/sDT0N9d6/8-9.png)](https://postimg.cc/F7JZfSK3)
